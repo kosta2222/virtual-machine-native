@@ -9,7 +9,7 @@
 #ifndef WOLFUNCTION_H
 #define WOLFUNCTION_H
 
-#include <wolClass.h>
+#include "wolClass.h"
 #include <string>
 
 using namespace std;

@@ -1,0 +1,11 @@
+_loads {
+        System
+}
+main {
+        #_loads : <System:string>;
+        Beep;
+        Plus : <12:double>, <10:double>, <678:double>;
+}
+stack {
+
+}

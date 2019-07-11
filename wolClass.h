@@ -1,7 +1,7 @@
 #ifndef WOLCLASS_H
 #define WOLCLASS_H
 
-#include <SecurityModifer.h>
+#include "SecurityModifer.h"
 
 class wolClass
 {
