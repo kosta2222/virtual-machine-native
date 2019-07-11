@@ -1,3 +1,11 @@
+
+/*
+ * File:   wolFunction.h
+ * Author: papa
+ *
+ * Created on 11 июля 2019 г., 11:01
+ */
+
 #ifndef WOLFUNCTION_H
 #define WOLFUNCTION_H
 
